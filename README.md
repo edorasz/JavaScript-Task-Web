@@ -1,4 +1,5 @@
 1. Menghitung luas persegi panjang
+
 function areaOfRectangle(length, width) {
     return length * width;
 }
